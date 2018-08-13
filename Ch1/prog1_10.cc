@@ -1,9 +1,9 @@
 #include <iostream>
 
 int main(){
-	int i = 0, val = 11;
-	while(val > 0){;
-		val--;
+	int i = 0, val = 10;
+	while(val >= 0){;
 		std::cout << val<< std::endl;
+		val--;
 	}
 }
