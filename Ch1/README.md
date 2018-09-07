@@ -21,4 +21,4 @@
 ### To do:
 ----------------
 
-- [ ] Rename files to prog##_## format
+- [ ] Rename files to `prog##_##.cc` format
