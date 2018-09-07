@@ -2,6 +2,9 @@
 
 ##  Table of Contents
 
+- 1.1 Writing a Simple C++ Program
+- 1.1.1 Compiling and Executing Our Program
+
 <ul>
 	<li>1.1 Writing a Simple C++ Program</li>
 	<li>1.1.1 Compiling and Executing Our Program </li>
@@ -21,4 +24,4 @@
 ### To do:
 ----------------
 
-Rename files to prog##_## format
+- [] Rename files to prog##_## format
